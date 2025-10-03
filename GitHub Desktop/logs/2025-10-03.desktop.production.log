@@ -4,3 +4,8 @@
 2025-10-03T20:27:07.401Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.8-zen3-1-zen)
 2025-10-03T20:27:07.405Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
 2025-10-03T20:27:08.962Z - info: [ui] Stats reported.
+2025-10-03T20:37:44.265Z - info: [ui] [Timing] Action 'create commit' for 'colorBanded/dotfiles-i3' took 0.118s
+2025-10-03T20:37:44.295Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-10-03T20:37:49.421Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
