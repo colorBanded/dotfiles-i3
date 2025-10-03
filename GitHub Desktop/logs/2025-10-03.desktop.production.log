@@ -1,0 +1,6 @@
+2025-10-03T20:27:05.755Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-10-03T20:27:05.785Z - info: [ui] [AppStore] found account: colorBanded (Leah)
+2025-10-03T20:27:06.143Z - info: [ui] Subscribed 'colorBanded' to Alive channel
+2025-10-03T20:27:07.401Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.8-zen3-1-zen)
+2025-10-03T20:27:07.405Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-10-03T20:27:08.962Z - info: [ui] Stats reported.

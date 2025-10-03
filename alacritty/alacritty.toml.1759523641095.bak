@@ -1,0 +1,8 @@
+[general]
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/vscode.dark.toml"
+]
+
+[font-regular]
+family = "FiraCode Nerd Font"
+style = "Regular"

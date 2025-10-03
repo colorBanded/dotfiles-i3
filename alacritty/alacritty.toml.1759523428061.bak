@@ -1,0 +1,7 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/3024.dark.toml"
+]
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
